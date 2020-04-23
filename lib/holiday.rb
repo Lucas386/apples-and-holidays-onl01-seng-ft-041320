@@ -84,4 +84,6 @@ bbq_holidays = []
         bbq_holidays << holidays
       end
     end
-  end.flatten.compact
+  end
+  flatten.compact
+end
